@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{14FB790C-162B-E036-7D27-921365DAB069}") = "Muro", "Assembly-CSharp-firstpass.csproj", "{D615691F-AF10-0F69-168A-30AF8CFFF2F6}"
+EndProject
+Project("{14FB790C-162B-E036-7D27-921365DAB069}") = "Muro", "Assembly-CSharp-Editor.csproj", "{47CBCB6A-8F07-ACC6-D658-9A55568AE6B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D615691F-AF10-0F69-168A-30AF8CFFF2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D615691F-AF10-0F69-168A-30AF8CFFF2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D615691F-AF10-0F69-168A-30AF8CFFF2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D615691F-AF10-0F69-168A-30AF8CFFF2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CBCB6A-8F07-ACC6-D658-9A55568AE6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CBCB6A-8F07-ACC6-D658-9A55568AE6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CBCB6A-8F07-ACC6-D658-9A55568AE6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CBCB6A-8F07-ACC6-D658-9A55568AE6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
